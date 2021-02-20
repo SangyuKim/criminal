@@ -87,7 +87,6 @@
 주거침입죄와 절도죄의 실체적 경합
 </div>
 </details>
-<details>
 
 <details>
 <summary>합동절도죄 성립의 시간적 한계</summary>
