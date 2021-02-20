@@ -107,6 +107,7 @@
 <div markdown="1">
 
 1. 문제의제기
+2.
 
 </div>
 </details>
